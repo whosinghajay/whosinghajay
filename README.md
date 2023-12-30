@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whosinghajay&label=Profile%20views&color=0e75b6&style=flat" alt="whosinghajay" /> </p>
 
-- 🔭 I’m currently working on **Parmatama Web App**
+- 🔭 I’m currently working on **to build a Portfolio using NextJs**
 
-- 🌱 I’m currently learning **Typescript and later move on to Next.js**
+- 🌱 I’m currently learning **NextJs**
 
-- 👯 I’m looking to collaborate on **MERN stack projects**
+- 👯 I’m looking to collaborate on **MERN | NextJs projects**
 
 - 💬 Ask me about **tech and health.**
 
 - 📫 How to reach me **whosinghajay@gmail.com**
 
-- ⚡ Fun fact **I think I am Calm.**
+- ⚡ Fun fact **I think I am Calm and actually I am.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
