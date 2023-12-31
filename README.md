@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Singh</h1>
-<h3 align="center">Full stack | MERN stack | NextJs developer from India</h3>
+<h3 align="center">Full stack | MERN | NextJs developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whosinghajay&label=Profile%20views&color=0e75b6&style=flat" alt="whosinghajay" /> </p>
 
