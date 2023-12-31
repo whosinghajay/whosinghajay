@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://ajaysinghportfolio.vercel.app/](https://ajaysinghportfolio.vercel.app/)
 
-- ⚡ Fun fact **I think I'm Calm and actually I'm.**
+- ⚡ Fun fact **I may seem calm, but there's a lively party inside me!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
