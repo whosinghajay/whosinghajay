@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whosinghajay&label=Profile%20views&color=0e75b6&style=flat" alt="whosinghajay" /> </p>
 
-- 🔭 I’m currently working on **a Personal Portfolio using NextJs**
+- 🔭 I’m currently working on **a Task Management WebApp using NextJs**
 
 - 🌱 I’m currently learning **Next.js**
 
