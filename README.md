@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a Task Management WebApp using NextJs**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **MERN | NextJs projects**
 
