@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **improving the efficiency and speed of my work**
 
-- 💬 Ask me about **health first and then tech**
+- 💬 Ask me about **health and tech**
 
 - 📫 How to reach me **whosinghajay@gmail.com**
 
