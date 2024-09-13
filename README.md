@@ -5,6 +5,8 @@
 
 - 📫 You can reach me at **whosinghajay@gmail.com**
 
+- 🤝 I’m continuously learning **new skills and exploring emerging technologies**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ajayyssingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajayyssingh" height="30" width="40" /></a>
