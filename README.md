@@ -1,21 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ajay Singh</h1>
-<h3 align="center">A passionate full stack | MERN stack | NextJs developer from India</h3>
+<h1 align="center">Hi there 👋, I'm Ajay Singh</h1>
+<h3 align="center">Software Engineer from India</h3>
 
-- 🔭 I’m currently working on **personal project**
+- 🔭 I’m currently working as **Software Developer**
 
-- 🌱 I’m currently learning **DevOps**
-
-- 👯 I’m looking to collaborate on **innovative projects**
-
-- 🤝 I’m looking for help with **improving the efficiency and speed of my work**
-
-- 💬 Ask me about **health and tech**
-
-- 📫 How to reach me **whosinghajay@gmail.com**
+- 📫 You can reach me at **whosinghajay@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ajayyssingh/](https://www.linkedin.com/in/ajayyssingh/)
-
-- ⚡ Fun fact **I may seem calm, but there's a lively party inside me!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
